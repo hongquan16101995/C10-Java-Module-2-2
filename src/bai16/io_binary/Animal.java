@@ -1,6 +1,8 @@
-package bai16;
+package bai16.io_binary;
 
-public class Animal {
+import java.io.Serializable;
+
+public class Animal implements Serializable {
     public String name;
     public int age;
 
