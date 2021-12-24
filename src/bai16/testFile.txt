@@ -1,0 +1,3 @@
+hello
+hi
+không cần try catch
