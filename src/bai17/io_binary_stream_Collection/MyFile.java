@@ -1,4 +1,4 @@
-package bai16;
+package bai17.io_binary_stream_Collection;
 
 import java.io.*;
 import java.util.ArrayList;
